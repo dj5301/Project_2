@@ -1,6 +1,6 @@
 ---
 title: "HW2"
-output: github_document
+output: html_document
 ---
 
 Loading library for hw2
